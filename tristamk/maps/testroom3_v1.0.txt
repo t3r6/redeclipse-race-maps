@@ -1,0 +1,18 @@
+This work, made by Kirill Kolesnikov aka TristamK (TristamK@bk.ru) , is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+
+Test Room 3
+Map name : Test Room 3 v1.0
+Map creator : Tristamk
+Build version : 18
+Date of start creating : 04 02 2013
+Last ver. date : 11 03 2013
+Links :
+download/file.php?mode=view&id=5786
+download/file.php?id=5795 - FIXED version v1.2
+About map from author :
+Third time-trial map in "TestRoom" series of maps.
+This a special and unusual map. Here i posted a example of combination logic elements and RE mechanic. At this moment is't impossible to create something more complicated with just doors and triggers (maybe scripts can help but isn't to much). And yes, at this moment map required a good skills in time-trial for passing map normally. But like i say before - this a first map with logic tasks.
+
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4282

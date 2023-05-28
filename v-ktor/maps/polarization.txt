@@ -1,0 +1,30 @@
+Polarization v4
+
+This is a singleplayer map! Start a onslaught-gauntlet or onslaught-timetrial on this map. The alpha team has to reach the space ship and omega team tries to stop them in gauntlet mode.
+If you want to play it with other players I suggest to use coop, but this is not possible. It's hard enough with cpu players in the omega team. It'll take at least 20min to finish this map, so you should put timelimit to 100 (teams will be changed after the half of the time if you play gauntlet).
+
+When I tested the map I died 20 times. There are so many grunts that it'll take some time untill everyone spawned.
+I also tried kaboom-onslaught-gauntlet with 15 bots. They are all walking around the alpha start causing many explosions.
+
+update: v4
+-removed some actors and added some new ones
+-added two teleporters wich teleports grunts
+
+update: v3
+-changed buttons to be more interactive by using script (the colour of the particle effect is changing, a sound if you activate the button and an error sound if the button is allready acitvated)
+-added checkpoints wich you have to hold (4 and 1 optional)
+-fixed clipping
+-texture changes (mainly inside the space ship)
+-added some unusable doors
+-added some sounds for doors/triggers
+
+update v2:
+-Doors to the teleporters in alpha base opens only if you enter them. You can't go back and grunts also can't enter the alpha base now.
+-Door out of the alpha base can only be opened from the base now. Enemies can still enter the base if the door is opended by a player.
+-on the space ship arrows shows you wich rooms you have to enter
+-changed few grunt's/turret's position, weapon,...
+-and some minor changes
+
+update:
+-removed some grunts (40%)
+-added sounds and particles to buttons

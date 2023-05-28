@@ -1,0 +1,37 @@
+Sphierpinski v0.6
+
+This work, made by Bonifarz <bonifarz@gmx.ch>, is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Geometry: In this case, we have the sixth iteration of the fractal (4'096 tetrahedrons) and twenty 8-spheres placed in the empty volumes of the two coarsest grids. The larger spheres are hollow and contain the affinities.
+Modes: Time trial (Race), Gauntlet (Onslaught), DM, CTF, DTF, but needs to be tested.
+Weapons: 16 nades, 12 mines, a rocket and 2 weapons of each type for classic games.
+Waypoints, sounds, : None so far.
+
+Changes
+Version 0.6 is almost the same as 0.5. The file is much smaller now due to coarser light precision and the trial barrier is changed quite a bit. That one still looks quite ugly, but still better than making mapmodels invisible via blend, because this will hide the portion of particles situated behind the mapmodel. Oherwise, not much is changed.
+
+Version 0.5 changelog
+version 0.5 introduces a more open geometry for the sphere elements
+sphere geometry replaced with thin-walled sphere slices to build an open environment
+conical particles as way indicators for trial games
+gauntlet affinity (red base, trial goal)
+again few entities are moved
+
+Version 0.4 changelog
+New trial route from blue to red base with a very large obstacle (white barricade)
+lighting adapted to team colors to avoid disorientation
+a few entities are moved
+
+Version 0.3 changelog
+Reworked the trial route
+Added 18 white light sources for high contrast lighting
+minor geometry fixes of some artifact tris
+
+There are bunch of geometry changes i would like to share (new version 0.2).
+Lowered the level of detail for the fractal from 16'384 to 4'096 tetrahedrons. This prevents you from getting stuck while crouching.
+Made the large spheres hollow and placed the affinities there. Creating inverted spheres and the joints for the tunnels was quite interesting.
+Changed the trial route. It only takes about 10 seconds to complete a "lap".
+
+Version 0.1 had a higher level of detail for the fractal and no light entities.

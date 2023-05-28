@@ -1,0 +1,9 @@
+Exotic v1.2
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4704&sid=562e2bb2c6057ae6b5633cd17f3a54fe
+
+I am the type of a person that likes to save their geometry to be used in a map when necessary.
+This map is a "model storage" type of map.
+
+Changes
+1.2 The skybox is fixed for RE v1.6
+1.1 Made the path more clear and easier for people. The red carpet is slower too.

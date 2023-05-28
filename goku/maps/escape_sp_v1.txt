@@ -1,0 +1,12 @@
+A single player version of Escape for race and campaign game modes.
+A hidden area is not finished in this map version.
+
+Instructions
+
+Move the contents of the map folder into your Red Eclipse map directory
+
+/data/maps
+
+Move the Folder 'escape' into the Red Eclipse Sounds folder
+
+/data/sounds

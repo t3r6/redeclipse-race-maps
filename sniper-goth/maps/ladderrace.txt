@@ -1,0 +1,9 @@
+Ladder Race v1.1
+
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4770
+
+This map is entirelly based on the Hyper climb technique (slide/impulse and hold Crouch and mash space into an ladder material).
+You will need to use it to pass through the challenges.
+
+Changes
+1.1 Fixed skybox for RE 1.6. Fixed visible missing textures. Added map info.

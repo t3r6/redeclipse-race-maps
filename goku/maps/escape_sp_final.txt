@@ -1,0 +1,15 @@
+A single player version of Escape for race and campaign game modes.
+The map contains a hidden area at the end. It consists of a button/jump puzzle where you have a white and blue colored door with a corresponding colored button to find. This is ended with a long sequence jump.
+
+Changes
+I have fixed most of the checkpoints so after you open each door you get a new checkpoint. I also made a few of the jumps easier.
+
+Instructions
+
+Move the contents of the map folder into your Red Eclipse map directory
+
+/data/maps
+
+Move the Folder 'escape' into the Red Eclipse Sounds folder
+
+/data/sounds
