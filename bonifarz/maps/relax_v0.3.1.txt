@@ -1,0 +1,30 @@
+This work, made by Bonifarz <bonifarz@gmx.ch>, is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+ 
+To view a copy of this license: 
+visit http://creativecommons.org/licenses/by-sa/3.0/ or 
+send a letter to Creative Commons, 
+444 Castro Street, Suite 900, 
+Mountain View, California, 94041, USA. 
+ 
+
+ ***
+
+"RElax" is a minimalistic time-trial course for "Red Eclipse" (www.redeclipse.net), designed for noobs, by a noob. This is unofficial content.
+
+The intention is to provide a light-colored, recreative and simplistic environment to hone ones basic skills in absence of deadly traps.
+
+
+Version changes
+
+RElax.0.2:
+- Enlarged geometry by a factor of two
+- Added basic lighting
+- Added opaque edges for better visibility of the pathway
+
+RElax.0.3:
+- Some changes to the geometry near the start
+- Added some basic NPC-dialogue: Get instructions from Tutobot
+
+RElax.0.3.1:
+- Fixed skybox for RE 1.6
+- Align GUI for RE 1.6

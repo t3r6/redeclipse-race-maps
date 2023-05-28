@@ -1,0 +1,11 @@
+Tutorial by TheLastProject
+https://forum.freegamedev.net/viewtopic.php?f=72&t=2302&p=23677
+
+The wind effect is a placeholder for instructional vocals:
+sounds/tutorial/tutorial1
+sounds/tutorial/tutorial2
+sounds/tutorial/tutorial3
+
+Changes in v1.1
+- Fixed setpixelparam error
+- Some texture adjustments and added lights

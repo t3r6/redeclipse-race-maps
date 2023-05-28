@@ -1,0 +1,39 @@
+This work, made by h1tq <hitech46@gmail.com>, is licensed under the 
+Creative Commons BY-NC-ND 3.0
+ Unported License.
+
+To view a copy of this license:
+1. visit http://creativecommons.org/licenses/by-nc-nd/3.0/ or
+2. read LEGALCODE.txt file found at /Licenses/<user>/maps/<map> or
+3. send a letter to Creative Commons,
+444 Castro Street, Suite 900,
+Mountain View, California, 94041, USA.
+
+********************************************************************************
+
+Map reservoir v1.1.1
+https://forum.freegamedev.net/viewtopic.php?f=73&t=3158&hilit=reservoir
+https://github.com/Four30Six/REMP
+
+You are one of the workers on the Space Scientific Complex, called "Cepheus", and you are in the water reservoir, number 083.
+Unfortunately, there was a serious crash, and now water is polluted with dangerous bacteria, which can absorb any material on it's way.
+As you can imagine, human bones is not the problem.
+
+You are the last survivor.
+Help yourself to find the way out.
+
+Good luck!
+
+Changes in version 1.1:
+- Removed some alarm sounds
+- Decreased alarm volume to 300 (previous was 2500)
+- Added some textures and geometry.
+- Some textures on "funny floor" in the room with boxes is a bit darken then others now...
+
+Changes in version 1.1.1:
+- Fixed setpixelparam error
+- Changed radius for alarms
+- Reduced sounds volume
+- Added silence.ogg
+- Increased the radius of the middle checkpoint
+- Added race finish entity

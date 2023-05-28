@@ -1,0 +1,8 @@
+This work, made by Kirill Kolesnikov aka TristamK (TristamK@bk.ru) , is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4291&sid=97b1951da132f85cc3851432ca8a6dbc
+
+Changes
+- Change the last checkpoint type

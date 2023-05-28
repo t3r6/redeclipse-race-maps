@@ -1,0 +1,24 @@
+This is an unofficial (and incomplete) concept map for Red Eclipse 1.4 and ported to Red Eclipse 1.6 (http://www.redeclipse.net/),
+
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4346
+
+Map Author: Bonifarz
+
+License: Creative Commons Attribution-ShareAlike 3.0
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+
+This is another concept idea for a tutorial, hopefully not an entirely useless one: A timetrial map for offline use with a few triggers that successively unlock the various impulse moves and give you some instructions about each of them as they are enabled. I tried to keep the outline as simple and clear as possible.
+There is absolutely no art on this map yet, so this is simply a concept to test the mechanics. This version does not include any texturing, lighting, decorative geometry and clipping, particles or sounds, and the hub area is just a placeholder. If you feel like adding any of these, you are explicitly allowed to do so. Also, I am not a native speaker, so the instructions may not always be as clear as they should be.
+
+Kicks with zero push still allow you to boost again, so there are actually plenty of shortcuts (just spam Q and space to climb up walls).
+
+A hint for the final obstacle: Try some wall running as you fall down to the lower ceiling.
+
+Tutorial triggers are located in the .cfg file.
+
+Changes in v0.1.1
+- The first bot now resets the movement to defaults
+- Moved deprecated guititle dialog to guilist for RE 1.6
+- Decreased impulsekickdelay in the last rooms for RE 1.6
+- Aligned parameters for RE 1.6

@@ -1,0 +1,11 @@
+[MAP] Euphoria - 2D challenges (Time Trial)
+
+2D challenges mappack
+Revisit
+Euphoria
+
+Euphoria is a masochistic variation of Revisit.
+This is an sort of remake from Bionic commando Rearmed 2's challenge rooms.
+They are the same layout as the originals.
+The thing is, I made it as you could see the other player's progress through the map if you look at the sides.
+PS: Don't touch the blue walls!

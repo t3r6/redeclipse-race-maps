@@ -1,0 +1,13 @@
+Twisted v0.3
+
+The map twisted is a derivative of the map Hidek by [RM] Temka: 
+http://forum.freegamedev.net/viewtopic.php?f=73&t=3899&p=39427
+The remix by Bonifarz is subject to the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/3.0/ 
+ 
+Hidek is a small trial map by [RM] Temka with an industrial theme, some strange clipping and an otherwise very open layout suitable for freestyle running. The concept map Twisted is based on Hidek : The player explores six variations of the same environment, each with a different normal vector for the gravity. Initially some particle arrows indicate where to go, but as the players progress they need some good sense of direction to find their way.
+
+Changes
+version 0.3
+Some lesser geometry fixes, a few more particles, some glass and still no mapmodels.

@@ -1,0 +1,12 @@
+Test Room 2
+Map name : Test Room 2 v0.8
+Map creator : Tristamk
+Build version : 19
+Date of start creating : 01 04 2012
+Last ver. date : 23 02 2013
+Links :
+download/file.php?id=5782
+About map from author :
+Second time-trial map in "TestRoom" series of maps. On the 100+1 you can see just v0.2 but here i posted a updated version. Now map have some pushers and spikes, improved lights.
+
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4282

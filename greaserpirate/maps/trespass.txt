@@ -1,0 +1,25 @@
+Trespass by Greaser, JD, Rabidbutton v2.1
+
+This map started out as a collaboration between me, JD, and Rabidbutton over a month ago. Since then, I've been fixing it up with their help and the help of others who provided feedback. Now, it's ready for the world to see.
+
+Tresspass is mainly an arena deathmatch map for 2-6 players (team or non-team) but it can also be played in CTF. It's set in the middle of an old, Earth-style city, right near an old nuclear power plant, with looming skyscrapers bearing the names of corporations that once ruled the metropolis.
+
+Also, JD discovered that there's a pretty cool parkour path among the skyscrapers, so I decided to make it playable for Time-Trial and Gauntlet; also, if the jetpack mutator is selected, you spawn outside the clip of the arena and can play a big, open match somewhat like Center. (Still, playing inside the arena is recommended)
+
+Changes
+
+Quick Update, April 16:
+-Correctly named
+-used Quin's suggestion, made invisible walls for dm/ctf/dtf/bb that disappear in gauntlet/time trial
+-gauntlet players now spawn inside the map
+
+
+Update June 4:
+-reworked outside buildings; kool-aid pool is now full nuclear stack. Also looks less prominent on minimap
+-More indications for timetrial/gauntlet that disappear in other modes where the goal is
+-very minor texturing adjustments
+-faster path no longer exists
+-time-trial starts inside, like Bonifarz suggested
+
+v2.1
+The cloudbox is fixed for RE v1.6

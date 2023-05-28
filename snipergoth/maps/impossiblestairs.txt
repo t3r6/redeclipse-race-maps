@@ -1,0 +1,5 @@
+Impossible Stairs v1.1 by SniperGoth
+
+Changes
+- Fixed the middle checkpoint
+- Small visual changes

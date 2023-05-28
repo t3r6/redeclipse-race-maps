@@ -1,0 +1,5 @@
+Tutorial by TheLastProject
+https://forum.freegamedev.net/viewtopic.php?f=72&t=2302&p=23677
+
+Changes
+- Fixed setpixelparam error

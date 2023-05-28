@@ -1,0 +1,18 @@
+This work, made by Kirill Kolesnikov aka TristamK <tristamk@bk.ru> is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. 
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+
+Holidays final version fixed for RE 1.6
+https://forum.freegamedev.net/viewtopic.php?f=73&t=3393
+
+About map
+It is a concept of map with secrets (easter eggs). When you find a secret you need to press E to activate it (1 of the secret doors will be opened) and you will hear a sound. There are 5 secrets and 5 corresponding doors.
+P.S. There may be a bug with opening the secret doors.
+
+Changes
+- Removed some spikes
+- Rotated a small texture at the beginning
+- Changed old skybox penguins/tropic to freezurbern/tropic for RE 1.6
+- Fixed setpixelparam for RE 1.6
+- Added a particle for teleport in a secret

@@ -1,0 +1,22 @@
+The Cruel Dozen Blue Nebula edition (based on v0.3)
+The version of the map that was used on the Rennstrecke race server (cruelDozen_0x3d53c85b)
+
+This work, made by Kirill "TristamK" Kolesnikov <TristamK@bk.ru> and Bonifarz <bonifarz@gmx.ch>, is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/3.0/ 
+
+The geometry of rooms 1, 6 and 9 corresponds to the map HardCore by [RM]Temka.
+
+Rooms 2, 4 and 5 and partly 12 were designed by TristamK as well as the portal shaders and the choice of the texture set. 
+
+Map remix, additional rooms, sky lighting and challenge texts by Bonifarz. 
+
+Octree font taken from Ac (http://www.quadropolis.us/node/2844)
+
+Version 0.3 changes
+I made an update with some adjustments to rooms 10 and 11. Kicks are a bit more difficult now.
+Since only start checkpoints start the timer, I added some teleports that allow you to access all other rooms from room zero: Just launch at the ceiling for testing or practice.
+
+Version 0.2 changes
+The eleventh section was way too easy compared to the tenth or ninth.
+With this update, I tried my best to make the spin-jump challenge a tough one. The room can be passed in two ways for sure, but both require some very precise timing.

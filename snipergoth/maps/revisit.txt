@@ -1,0 +1,13 @@
+[MAP] Revisit - 2D challenges (Time Trial)
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4816&p=50122
+
+2D challenges mappack
+Revisit
+Euphoria
+
+This is an sort of remake from Bionic commando Rearmed 2's challenge rooms.
+They are the same layout as the originals, but the thing is, you can parkour through it with no problems!
+There are 5 rooms. I will remake the other 15 ones when I feel like doing it.
+The thing is, I made it as you could see the other player's progress through the map if you look at the sides.
+Room 4 will give some problems if you don't have too much sense of balance.
+PS: Don't touch the blue walls!

@@ -1,0 +1,74 @@
+Tonatiuh v1.1c
+
+This work, made by Bonifarz <bonifarz@gmx.ch>, is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+To view a copy of this license visit 
+http://creativecommons.org/licenses/by-sa/3.0/ 
+
+Changes
+
+version 1.1c
+* mapmusic path is changed form "sounds/music/GalacticTemple.ogg" to "maps/tonatiuh.ogg"
+version 1.1b
+* Tilted spikes block fixed - yeah, i never noticed that one
+* Clipped the sniper spot so it does no longer work as super-difficult shortcut
+* Checked again that all torches have noclip and clipped slopes
+* Moved the trial start to the entrance
+* Some minor changes hardly noticeable
+version 1.1
+* Finally added a start checkpoint. Reason: ticket 585
+* Noclip on all spikes to prevent weird collision
+version 1.0
+* Added "random" variations to the length of the spikes.
+* Added decorative geometry: Demonical statue.
+* Added decorative geometry: Round mask.
+* Replaced the outdoor sounds.
+* fixed positions of some trees and all torch particles.
+* Removed the sandbox at the top.
+version 0.8
+* Recreated parts of the golden mask geometry.
+* New spike geometry for corners.
+* Added a few "easter eggs", hidden paths that are not shortcuts.
+* Raised numplayers to avoid spawn queues.
+version 0.7
+* Both dmo records are included, one easy way (new), one fast time (97s).
+* Added some mine turrets for onslaught trial (/trialghost 0, /minesub1/2 0).
+* Added an affinity and player starts for gauntlet, but this is "mission impossible" since checkpoints are ignored.
+* Added a few gaps and shattered bricks (un-/clipped) to break up some monotony.
+* Fixed some torches that lost some flags via copy/paste
+version 0.6.1
+* One corridor was again too dark, therefore the small update.
+* Replaced the dmo file, lap record: 97 seconds.
+* Minor changes in geometry and blendmap.
+version 0.6
+* Fixed a shortcut discovered by Michel, thanks.
+* Moved a respawn-point and added another one.
+* Clip around and noclip on the torches.
+* Most checkpoints are now marked with hexagonal stone plates.
+* Decorative geometry: Stone statue.
+* Decorative geometry: Grim face - damn, that's really not easy to model with octrees =)
+* Some simple stone ceilings added.
+* Light colour, vlayer texture and cloud vars adjusted as suggested by TristamK.
+* A bit of dark red fog, not sure if it really helps here.
+* Some compromise with the relative size of light ents/models/particles.
+* New finish particles, teleport points now to the temple entrance.
+* 3 Screenshots updated
+* dmo file updated, but I am too lazy now to make a good one ;)
+version 0.5
+* Two more checkpoints when kicking around the sun orb
+* Lots of blendmap painting inside and outside the temple
+* Colder ambient light
+* Some changes in the outdoor geometry
+version 0.4
+* The narrow corridors are now as wide as a standing player
+* Blendmaps added to paint mossy temple walls
+* Lightprecision bumped up to 128 to keep the file size reasonable
+* The spike patterns are not as symmetric anymore
+* Various decorative geometry fixes
+* Some 180 tree mapmodels added
+version 0.3
+* Final spike section reworked
+* "Diagonal" spikes as decorative geometry
+Version 0.2
+* Glitching through slopes should be fixed, crouch jumping works now as it should.
+* Wall running around the sun sphere  is much easier now. The old route serves as a shortcut.
+* Lighting changes around and inside the sun sphere.

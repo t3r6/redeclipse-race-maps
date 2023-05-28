@@ -1,0 +1,12 @@
+Test Room 1
+Map name : Test Room 1 v1.15
+Map creator : Tristamk
+Build version : 26
+Date of start creating : 29 03 2012
+Last ver. date : 05 02 2013
+Links :
+download/file.php?id=5781
+About map from author :
+Oldest time-trial map with combination of triggers, pushers and doors. It the last update fixed shadows, textures, some small details added.
+
+https://forum.freegamedev.net/viewtopic.php?f=73&t=4282
